@@ -1,0 +1,780 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Globalization;
+using System.Threading;
+using System.Windows.Forms;
+using DAL;
+using BusinesEntities;
+
+namespace jewl
+{
+    public partial class AddItem : Form
+    {
+        bool nFlag = false;
+        bool aFlag = false;
+        bool cFlag = false;
+         Item itm ;
+         SubGroupItem sgitm;
+         SubItem sitm;
+       ItemDAL itmDAL = new ItemDAL();
+       SubGroupItem sItem = new SubGroupItem();
+       List<Item> items;
+       List<SubGroupItem> sItems;
+       List<SubItem> sitms;
+       UserRights ur = new UserRights();
+       int k;
+       int l;
+       int m;
+        public AddItem()
+        {
+            InitializeComponent();
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+             if (tabControl1.SelectedTab == tabPage1)
+            {
+                if (this.txtGroupItemName.Text == "" )
+                {
+                    MessageBox.Show("No item to save", "Jewell Manager 2011",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                    return;
+                }
+                if (this.txtAbrivation.Text == "")
+                {
+                    MessageBox.Show("You must enter the abbrivation", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                else
+                {
+                    
+                    itm = new Item();
+                    int id = itmDAL.GetMaxCode() + 1;
+                    itm.ItemId = id;
+                    CultureInfo culInfo = CultureInfo.CurrentCulture;
+                    TextInfo txtInfo = culInfo.TextInfo;
+                    string str1 = this.txtGroupItemName.Text.ToString();
+                    itm.ItemName = txtInfo.ToTitleCase(str1);
+                    
+                    string str= this.txtAbrivation.Text.ToString();
+                   
+                    itm.Abrivation = txtInfo.ToUpper(str);
+                    nFlag = itmDAL.isNameExist("select ItemName from Item where ItemName='" + itm.ItemName + "'" );
+                    if (nFlag == true||cFlag==true)
+                    {
+                        MessageBox.Show("Name already exist","Jewell Manager 2011");
+                        return;
+                    }
+                    aFlag = itmDAL.isAbriExist(itm.Abrivation);
+                    if (aFlag == true)
+                    {
+                        MessageBox.Show("Abrivation already exist", "Jewell Manager 2011");
+                        return;
+                    }
+                    else
+                    itmDAL.AddItem(itm);
+                    // dgvExistingGroupDetail.DataSource = itmDAL.GetAllItems();
+
+
+                    MessageBox.Show("Record saved successfully", "Jewell Manager 2011");
+                    this.ShowItemRecord();
+                    this.txtGroupItemName.Text = "";
+                    this.txtAbrivation.Text = "";
+                    this.txtSubItemName.Text = "";
+                    this.txtT2SubGItemN.Text = "";
+                    this.cbxSubGroupItem.SelectedIndex = -1;
+                    this.cbxT2GroupItem.SelectedIndex = -1;
+                    this.cbxT3GroupItem.SelectedIndex = -1;
+                    this.RefreshTabPage1();
+                }
+            }
+            if (tabControl1.SelectedTab == tabPage2)
+            {
+                if (this.cbxT2GroupItem.SelectedIndex == -1)
+                {
+                    MessageBox.Show("Please select the item", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                if (this.txtT2SubGItemN.Text == "")
+                {
+                    MessageBox.Show("You must enter the name", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                else
+                {
+                    sgitm = new SubGroupItem();
+                    sgitm.GroupItem = (Item)this.cbxT2GroupItem.SelectedItem;
+
+                    string str = this.txtT2SubGItemN.Text.ToString();
+                    CultureInfo culInfo = CultureInfo.CurrentCulture;
+                    TextInfo txtInfo = culInfo.TextInfo;
+                    sgitm.SubGName = txtInfo.ToTitleCase(str);
+                    nFlag = itmDAL.isNameExist("select SGItmName from SubGroupItem where SGItmName='" + sgitm.SubGName + "'");
+                    if (nFlag == true || cFlag == true)
+                    {
+                        MessageBox.Show("Name already exist", "Jewell Manager 2011");
+                        return;
+                    }
+                    else
+                    {
+                        itmDAL.AddSubGroupItem(sgitm);
+                        MessageBox.Show("Record saved successfully", "Jewell Manager 2011");
+                        this.ShowSubGItemRecord();
+                        this.RefreshTabPage2();
+                    }
+                }
+            }
+            if (tabControl1.SelectedTab == tabPage3)
+            {
+                 if (this.cbxT3GroupItem.SelectedIndex == -1)
+                {
+                    MessageBox.Show("Please select the Item", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                 //if (this.cbxSubGroupItem.SelectedIndex == -1)
+                 //{
+                 //    MessageBox.Show("Please select the item", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                 //    return;
+                 //}
+                 if (this.txtSubItemName.Text == "")
+                 {
+                     MessageBox.Show("You must enter the name", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                     return;
+                 }
+                 else
+                 {
+
+                     sitm = new SubItem();
+                     sitm.Itm = (Item)this.cbxT3GroupItem.SelectedItem;
+                     sitm.SGroupItem = new SubGroupItem();
+                     if (this.cbxSubGroupItem.SelectedIndex == -1)
+                         sitm.SGroupItem.SubGItemId = 0;
+                     else
+                         sitm.SGroupItem = (SubGroupItem)this.cbxSubGroupItem.SelectedItem;
+
+                     CultureInfo culInfo = CultureInfo.CurrentCulture;
+                     TextInfo txtInfo = culInfo.TextInfo;
+                     string str = this.txtSubItemName.Text.ToString();
+                     sitm.SubIName = txtInfo.ToTitleCase(str);
+                     nFlag = itmDAL.isNameExist("select SubItmName from SubItems where SubItmName='" + sitm.SubIName + "'");
+                     if (nFlag == true || cFlag == true)
+                     {
+                         MessageBox.Show("Name already exist", "Jewell Manager 2011");
+                         return;
+                     }
+                     else
+                     {
+                         itmDAL.AddSubItem(sitm);
+                         MessageBox.Show("Record saved successfully", "Jewell Manager 2011");
+                         this.ShowSubItemRecord();
+                         this.RefreshTabPage3();
+                     }
+                 }
+            }
+            this.cbxT3GroupItem.DataSource = itmDAL.GetAllItems();
+            this.cbxT3GroupItem.DisplayMember = "ItemName";
+            this.cbxT3GroupItem.ValueMember = "ItemId";
+            // this.cbxItemName.ValueMember = "ItemId";
+
+            this.cbxT2GroupItem.DataSource = itmDAL.GetAllItems();
+            this.cbxT2GroupItem.DisplayMember = "ItemName";
+            this.cbxT2GroupItem.ValueMember = "ItemId";
+
+
+            this.cbxSubGroupItem.DataSource = itmDAL.GetAllSubGItems();
+            this.cbxSubGroupItem.DisplayMember = "SubGName";
+            this.cbxSubGroupItem.ValueMember = "SubGItemId";
+        }
+
+        private void AddItem_Load(object sender, EventArgs e)
+        {
+            UserRights ur = new UserRights();
+            string str;
+            str = ur.GetRightsByUser();
+            if (str == "Administrator")
+            {
+                this.btnSave.Enabled = true;
+                this.btnEdit.Enabled = true;
+                this.btnDelete.Enabled = true;
+            }
+            else if (str == "Limited")
+            {
+                this.btnSave.Enabled = true;
+            }
+            else
+            {
+                str = ur.GetUserRightsByUser("AddItem");
+                if (str != "" && str != null)
+                {
+                    ur.AssignRights(str, btnSave,btnEdit,btnDelete);
+                }
+            }
+            this.cbxT3GroupItem.SelectedIndexChanged -= new System.EventHandler(this.cbxT3GroupItem_SelectedIndexChanged);
+            //this.dgvExistingGroupDetail.ColumnHeaderMouseClick -= new DataGridViewCellMouseEventHandler(dgvExistingGroupDetail_ColumnHeaderMouseClick);          
+            //this.cbxSubGroupItem.SelectedIndexChanged -= new System.EventHandler(this.cbxSubGroupItem_SelectedIndexChanged);
+
+            //this.Column6.HasDefaultCellStyle = Color.Khaki;
+            this.cbxT3GroupItem.DataSource = itmDAL.GetAllItems();
+            this.cbxT3GroupItem.DisplayMember = "ItemName";
+            this.cbxT3GroupItem.ValueMember  = "ItemId";
+           // this.cbxItemName.ValueMember = "ItemId";
+
+            this.cbxT2GroupItem.DataSource = itmDAL.GetAllItems();
+            this.cbxT2GroupItem.DisplayMember = "ItemName";
+            this.cbxT2GroupItem.ValueMember  = "ItemId";
+
+
+            this.cbxSubGroupItem.DataSource = itmDAL.GetAllSubGItems();
+            this.cbxSubGroupItem.DisplayMember = "SubGName";
+            this.cbxSubGroupItem.ValueMember  = "SubGItemId";
+
+            this.cbxT3GroupItem.SelectedIndex = -1;
+            this.cbxSubGroupItem.SelectedIndex = -1;
+
+            this.ShowItemRecord();
+            this.ShowSubGItemRecord();
+            this.ShowSubItemRecord();
+            this.txtGroupItemName.Select();
+            this.txtSubItemName.Select();
+            this.txtT2SubGItemN.Select();
+        }
+        private void ShowItemRecord()
+        {
+            int j=1;
+            items = itmDAL.GetAllItems();
+            if (items == null)
+                return;
+            else 
+            {
+                this.dgvExistingGroupDetail .AutoGenerateColumns = false;
+                this.dgvExistingGroupDetail.Rows.Clear();
+                int count = items.Count;
+                this.dgvExistingGroupDetail.Rows.Add(count);
+                
+                for (int i = 0; i < count; i++)
+                {
+
+                    this.dgvExistingGroupDetail.Rows[i].Cells[0].Value =i+j ;
+                    this.dgvExistingGroupDetail.Rows[i].Cells[1].Value = items[i].ItemName.ToString();
+                    this.dgvExistingGroupDetail.Rows[i].Cells[2].Value = items[i].Abrivation.ToString();
+                    this.dgvExistingGroupDetail.Rows[i].Cells[3].Value = items[i].ItemId.ToString();
+                }
+            }
+ 
+        }
+        private void ShowSubGItemRecord()
+        {
+            int j = 1;
+           
+            //sItems = itmDAL.GetAllSubItems();
+            sItems = itmDAL.GetAllSubGItems();
+            if (sItems  == null)
+                return;
+            else
+            {
+                this.dgvExistingSubGroupItemDetail.AutoGenerateColumns = false;
+                this.dgvExistingSubGroupItemDetail.Rows.Clear();
+                int count = sItems .Count;
+                this.dgvExistingSubGroupItemDetail.Rows.Add(count);
+                for (int i = 0; i < count; i++)
+                {
+                    this.dgvExistingSubGroupItemDetail.Rows[i].Cells[0].Value=i+j;
+                    this.dgvExistingSubGroupItemDetail.Rows[i].Cells[1].Value = sItems[i].GroupItem.ItemName.ToString();
+                    this.dgvExistingSubGroupItemDetail.Rows[i].Cells[2].Value = sItems[i].SubGName;
+                    this.dgvExistingSubGroupItemDetail.Rows[i].Cells[3].Value = sItems[i].SubGItemId.ToString();
+                }
+            }
+
+        }
+        private void ShowSubItemRecord()
+        {
+            int j = 1;
+
+            //sItems = itmDAL.GetAllSubItems();
+            sitms = itmDAL.GetAllSubItemByItm();
+            if (sitms == null)
+                return;
+            else
+            {
+                this.dgvExistingSubItemDetail.AutoGenerateColumns = false;
+                this.dgvExistingSubItemDetail.Rows.Clear();
+                int count = sitms.Count;
+                this.dgvExistingSubItemDetail.Rows.Add(count);
+                for (int i = 0; i < count; i++)
+                {
+                    this.dgvExistingSubItemDetail.Rows[i].Cells[0].Value = i + j;
+                    this.dgvExistingSubItemDetail.Rows[i].Cells[1].Value = sitms[i].Itm.ItemName.ToString();
+                    if (sitms[i].SGroupItem.SubGItemId == 0)
+                        this.dgvExistingSubItemDetail.Rows[i].Cells[2].Value = string.Empty;
+                    else
+                        this.dgvExistingSubItemDetail.Rows[i].Cells[2].Value = sitms[i].SGroupItem.SubGName;
+                    this.dgvExistingSubItemDetail.Rows[i].Cells[3].Value = sitms[i].SubIName;
+
+                    this.dgvExistingSubItemDetail.Rows[i].Cells[4].Value = sitms[i].SID.ToString();
+                }
+            }
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+     
+
+        private void cbxT2GroupItem_Click(object sender, EventArgs e)
+        {
+            if (items == null)
+            {
+                MessageBox.Show("There is no Group Item to display", "Jewell Manager 2011");
+                return;
+            }
+
+        }
+
+        private void cbxT3GroupItem_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (this.cbxT3GroupItem.SelectedIndex == -1)
+            {
+                return;
+            }
+                else
+                {
+                //  Item it = (Item)this.cbxGroupItem.SelectedItem;
+                int k = (int)this.cbxT3GroupItem.SelectedValue;
+
+                // itmDAL.GetSubGItemById(it.ItemId);
+                this.cbxSubGroupItem.DataSource = itmDAL.GetSubGItemById(k);
+                this.cbxSubGroupItem.DisplayMember = "SubGName";
+                this.cbxSubGroupItem.ValueMember = "SubGItemId";
+                this.cbxSubGroupItem.SelectedIndex = -1;
+                }
+
+                
+            
+        }
+
+        private void cbxT3GroupItem_SelectionChangeCommitted(object sender, EventArgs e)
+        {
+            this.cbxT3GroupItem.SelectedIndexChanged += new System.EventHandler(this.cbxT3GroupItem_SelectedIndexChanged);
+        }
+
+
+
+        private void RefreshTabPage1()
+        {
+            this.txtGroupItemName.Text = "";
+            this.txtAbrivation.Text = "";
+        }
+
+        private void RefreshTabPage2()
+        {
+            this.txtT2SubGItemN.Text = "";
+            this.cbxT2GroupItem.SelectedIndex = -1;
+        }
+        private void RefreshTabPage3()
+        {
+            this.txtSubItemName.Text = "";
+            this.cbxT3GroupItem.SelectedIndex = -1;
+            this.cbxSubGroupItem.SelectedIndex = -1;
+        }
+
+        private void dgvExistingGroupDetail_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex == -1)
+                return;
+            else
+            {
+                k = Convert.ToInt32(this.dgvExistingGroupDetail.Rows[e.RowIndex].Cells[3].Value);
+                // itmDAL.GetItemById(k);
+                this.showRec(k);
+                this.btnEdit.Text = "Update";
+                //this.btnDelete.Enabled = false;
+                this.btnSave.Enabled = false;
+            }
+        }
+        private void showRec(int id)
+        {
+           itm= itmDAL.GetItmById(id);
+           if (itm == null)
+               return;
+           else
+           {
+               this.txtGroupItemName.Text = itm.ItemName.ToString();
+               this.txtAbrivation.Text = itm.Abrivation.ToString();
+           }
+        }
+
+        private void showRecTab2(int id)
+        {
+            sgitm = itmDAL.GetsgItmById(id);
+            if (sgitm == null)
+                return;
+            else
+            {
+                for (int i = 0; i < this.cbxT2GroupItem.Items.Count; i++)
+                {
+                    Item it = (Item)this.cbxT2GroupItem.Items[i];
+                    if (sgitm.GroupItem.ItemId == it.ItemId)
+                        this.cbxT2GroupItem.SelectedIndex = i;
+                }
+                this.txtT2SubGItemN.Text = sgitm.SubGName.ToString();
+            }
+        }
+
+        private void showRecTab3(int id)
+        {
+            sitm = itmDAL.GetsItmById(id);
+            if (sitm == null)
+                return;
+            else
+            {
+                for (int i = 0; i < this.cbxT3GroupItem.Items.Count; i++)
+                {
+                    Item it = (Item)this.cbxT3GroupItem.Items[i];
+                    if (sitm.Itm.ItemId == it.ItemId)
+                        this.cbxT3GroupItem.SelectedIndex = i;
+                }
+                for (int i = 0; i < this.cbxSubGroupItem.Items.Count; i++)
+                {
+                    SubGroupItem it = (SubGroupItem)this.cbxSubGroupItem.Items[i];
+                    if (sitm.SGroupItem.SubGItemId == it.SubGItemId)
+                    {
+                        this.cbxSubGroupItem.SelectedIndex = i;
+                        break;
+                    }
+                    else
+                        this.cbxSubGroupItem.SelectedIndex = -1;
+                }
+                this.txtSubItemName.Text = sitm.SubIName.ToString();
+            }
+        }
+
+        private bool KeyCheck(object sender, KeyPressEventArgs e)
+        {
+
+            bool bFlag = false;
+            if (e.KeyChar == 13 || e.KeyChar == 27 || (Convert.ToInt16(e.KeyChar) < 65 || Convert.ToInt16(e.KeyChar) > 90) && (Convert.ToInt16(e.KeyChar) < 97 || Convert.ToInt16(e.KeyChar) > 122) && Convert.ToInt16(e.KeyChar) != 8 && Convert.ToInt16(e.KeyChar) != 32)
+                bFlag = true;
+            return bFlag;
+        }
+
+        private void btnEdit_Click(object sender, EventArgs e)
+        {
+            if (tabControl1.SelectedTab == tabPage1)
+            {
+                if (k == 0)
+                {
+                    MessageBox.Show("Please select the record to update", "Jewell Manager 2011");
+                    return;
+                }
+                if (btnEdit.Text == "Update")
+                {
+                    bool iFlag = false;
+                    bool sFlag = false;
+                    bool cFlag = false;
+                    iFlag = itmDAL.isItemIdExist(k);
+                    //sFlag = itmDAL.isItemExist(k);
+                    cFlag = itmDAL.isItemExistInCost(k);
+                    if (iFlag == true||cFlag==true)
+                    {
+                        MessageBox.Show("You can not update this record it is already in use", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+                    if (this.txtGroupItemName.Text == "")
+                    {
+                        MessageBox.Show("No item to save", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+                    if (this.txtAbrivation.Text == "")
+                    {
+                        MessageBox.Show("You must enter the abbrivation", "Jewell Manager 2011", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+                    else
+                    {
+                        itm = new Item();
+
+                        CultureInfo culInfo = CultureInfo.CurrentCulture;
+                        TextInfo txtInfo = culInfo.TextInfo;
+                        string str1 = this.txtGroupItemName.Text.ToString();
+                        itm.ItemName = txtInfo.ToTitleCase(str1);
+                        //itm.ItemName = this.txtGroupItemName.Text;
+                        string str = this.txtAbrivation.Text.ToString();
+                        itm.Abrivation = txtInfo.ToUpper(str);
+                        //itm.Abrivation = this.txtAbrivation.Text;
+
+                        // MessageBox.Show("k="+k);
+                        itmDAL.UpdateItem(k, itm);
+                        MessageBox.Show("Record Update Successfully", "Jewell Manager 2011");
+                        this.ShowItemRecord();
+                        this.btnEdit.Text = "Edit";
+                        this.btnSave.Enabled = true;
+                        this.btnDelete.Enabled = true;
+                        this.RefreshTabPage1();
+                    }
+                }
+            }
+            if (tabControl1.SelectedTab == tabPage2)
+            {
+                if (l == 0)
+                {
+                    MessageBox.Show("Please select the record to update", "Jewell Manager 2011");
+                    return;
+                }
+                if (btnEdit.Text == "Update")
+                {
+                   
+                    sgitm = new SubGroupItem();
+                    sgitm.GroupItem =(Item) this.cbxT2GroupItem.SelectedItem;
+                    CultureInfo culInfo = CultureInfo.CurrentCulture;
+                    TextInfo txtInfo = culInfo.TextInfo;
+                    string str = this.txtT2SubGItemN.Text.ToString();
+                    sgitm.SubGName = txtInfo.ToTitleCase(str);
+                    //sgitm.SubGName = this.txtT2SubGItemN.Text.ToString();
+
+                    // MessageBox.Show("k="+k);
+                    itmDAL.UpdateSGItm(l, sgitm);
+                    MessageBox.Show("Record Update Successfully", "Jewell Manager 2011");
+                    this.ShowSubGItemRecord();
+                    this.btnEdit.Text = "Edit";
+                    this.btnSave.Enabled = true;
+                    this.btnDelete.Enabled = true;
+                    this.RefreshTabPage2();
+                }
+            }
+            if (tabControl1.SelectedTab == tabPage3)
+            {
+                if (m == 0)
+                {
+                    MessageBox.Show("Please select the record to update", "Jewell Manager 2011");
+                    return;
+                }
+                if (btnEdit.Text == "Update")
+                {
+
+                    sitm = new SubItem();
+                    sitm.Itm = (Item)this.cbxT3GroupItem.SelectedItem;
+                    //if (sitm.SGroupItem.SubGItemId == 0)
+                    //    this.cbxSubGroupItem.SelectedIndex = -1;
+                    //else
+                    sitm.SGroupItem =(SubGroupItem)this.cbxSubGroupItem.SelectedItem;
+                    CultureInfo culInfo = CultureInfo.CurrentCulture;
+                    TextInfo txtInfo = culInfo.TextInfo;
+                    string str = this.txtSubItemName.Text.ToString();
+                    sitm.SubIName = txtInfo.ToTitleCase(str);
+                    //sitm.SubIName = this.txtSubItemName.Text.ToString();
+                    // MessageBox.Show("k="+k);
+                    itmDAL.UpdateSItm(m, sitm);
+                    MessageBox.Show("Record Update Successfully", "Jewell Manager 2011");
+                    this.ShowSubItemRecord();
+                    this.btnEdit.Text = "Edit";
+                    this.btnSave.Enabled = true;
+                    this.btnDelete.Enabled = true;
+                    this.RefreshTabPage3();
+                }
+            }
+        }
+
+        private void dgvExistingSubGroupItemDetail_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex == -1)
+                return;
+            else
+            {
+                l = Convert.ToInt32(this.dgvExistingSubGroupItemDetail.Rows[e.RowIndex].Cells[3].Value);
+                this.showRecTab2(l);
+                this.btnEdit.Text = "Update";
+                //this.btnDelete.Enabled = false;
+                this.btnSave.Enabled = false;
+            }
+        }
+
+        private void dgvExistingSubItemDetail_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex == -1)
+                return;
+            else
+            {
+                m = Convert.ToInt32(this.dgvExistingSubItemDetail.Rows[e.RowIndex].Cells[4].Value);
+                this.showRecTab3(m);
+                this.btnEdit.Text = "Update";
+                //this.btnDelete.Enabled = false;
+                this.btnSave.Enabled = false;
+            }
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            if (tabControl1.SelectedTab == tabPage1)
+            {
+                if (k == 0)
+                {
+                    MessageBox.Show("Please select the record to delete", "Jewell Manager 2011");
+                    return;
+                }
+                if (k!=0)
+                {
+                    bool iFlag = false;
+                    iFlag = itmDAL.isItemIdExist(k);
+                    if (iFlag == true)
+                    {
+                        MessageBox.Show("You can not delete this record it is already in use", "Jewell Manager 2011",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                        return;
+                    }
+                    else
+                    {
+                        if (MessageBox.Show("Are you sure to delete this record:Press Ok To Continue", "Jewell Manager 2011", MessageBoxButtons.OKCancel, MessageBoxIcon.Information) == DialogResult.OK)
+                        {
+                            itm = new Item();
+                            itmDAL.DeleteItem(k, itm);
+                            MessageBox.Show("Record deleted Successfully", "Jewell Manager 2011");
+                            this.ShowItemRecord();
+                            this.btnEdit.Text = "Edit";
+                            this.btnSave.Enabled = true;
+                            //this.btnDelete.Enabled = true;
+                            this.RefreshTabPage1();
+                        }
+                    }
+                }
+            }
+            if (tabControl1.SelectedTab == tabPage2)
+            {
+                if (l == 0)
+                {
+                    MessageBox.Show("Please select the record to delete", "Jewell Manager 2011");
+                    return;
+                }
+                if (l!=01)
+                {
+                    if (MessageBox.Show("Are you sure to delete this record:Press Ok To Continue", "Jewell Manager 2011", MessageBoxButtons.OKCancel, MessageBoxIcon.Information) == DialogResult.OK)
+                    {
+
+                        sgitm = new SubGroupItem();
+                       
+
+                        itmDAL.DeleteSGItm(l, sgitm);
+                        MessageBox.Show("Record deleted Successfully", "Jewell Manager 2011");
+                        this.ShowSubGItemRecord();
+                        this.btnEdit.Text = "Edit";
+                        this.btnSave.Enabled = true;
+                        //this.btnDelete.Enabled = true;
+                        this.RefreshTabPage2();
+                    }
+                }
+            }
+            if (tabControl1.SelectedTab == tabPage3)
+            {
+                if (m == 0)
+                {
+                    MessageBox.Show("Please select the record to delete", "Jewell Manager 2011");
+                    return;
+                }
+                if (m!=0)
+                {
+                    if (MessageBox.Show("Are you sure to delete this record:Press Ok To Continue", "Jewell Manager 2011", MessageBoxButtons.OKCancel, MessageBoxIcon.Information) == DialogResult.OK)
+                    {
+                        sitm = new SubItem();
+                        
+                        itmDAL.DeleteSItm(m, sitm);
+                        MessageBox.Show("Record deleted Successfully", "Jewell Manager 2011");
+                        this.dgvExistingGroupDetail.Rows.Clear();
+                        this.ShowSubItemRecord();
+                        this.btnEdit.Text = "Edit";
+                        this.btnSave.Enabled = true;
+                        //this.btnDelete.Enabled = true;
+                        this.RefreshTabPage3();
+                    }
+                }
+            }
+        }
+
+        private void txtGroupItemName_KeyPress(object sender, KeyPressEventArgs e)
+        {           
+            bool bFlag = false;
+            bFlag = this.KeyCheck(sender, e);
+            if (bFlag == true)
+                e.Handled = true;
+        }
+
+        private void txtAbrivation_KeyPress(object sender, KeyPressEventArgs e)
+        {         
+            bool bFlag = false;
+            bFlag = this.KeyCheck(sender, e);
+            if (bFlag == true)
+                e.Handled = true;
+        }
+
+        private void txtT2SubGItemN_KeyPress(object sender, KeyPressEventArgs e)
+        {          
+            bool bFlag = false;
+            bFlag = this.KeyCheck(sender, e);
+            if (bFlag == true)
+                e.Handled = true;
+        }
+
+        private void txtSubItemName_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+            if ((Convert.ToInt16(e.KeyChar) < 65 || Convert.ToInt16(e.KeyChar) > 90) && (Convert.ToInt16(e.KeyChar) < 97 || Convert.ToInt16(e.KeyChar) > 122) && Convert.ToInt16(e.KeyChar) != 8 && Convert.ToInt16(e.KeyChar) != 32)
+                e.Handled = true;
+            else
+                e.Handled = false;
+            bool bFlag = false;
+            bFlag = this.KeyCheck(sender, e);
+            if (bFlag == true)
+                e.Handled = true;
+        }
+
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            if (tabControl1.SelectedTab == tabPage1)
+            {
+                this.txtGroupItemName.Text = "";
+                this.txtAbrivation.Text = "";
+                this.btnSave.Enabled = true;
+                this.btnEdit.Text = "&Edit";
+            }
+            if (tabControl1.SelectedTab == tabPage2)
+            {
+                this.cbxT2GroupItem.SelectedIndex = -1;
+                this.txtT2SubGItemN.Text = "";
+                this.btnSave.Enabled = true;
+                this.btnEdit.Text = "&Edit";
+            }
+            if (tabControl1.SelectedTab == tabPage3)
+            {
+                this.cbxT3GroupItem.SelectedIndex = -1;
+                this.cbxSubGroupItem.SelectedIndex = -1;
+                this.txtSubItemName.Text = "";
+                this.btnSave.Enabled = true;
+                this.btnEdit.Text = "&Edit";
+            }
+        }
+
+        private void txtGroupItemName_Leave(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.btnSave.Enabled = true;
+            this.btnEdit.Text = "Edit";
+            this.txtAbrivation.Text = "";
+            this .txtGroupItemName .Text ="";
+            this .txtSubItemName .Text ="";
+            this.txtT2SubGItemN.Text = "";
+            
+        }
+
+       
+      
+    }
+}

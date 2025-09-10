@@ -1,0 +1,42 @@
+Trying to change property 'svn:ignore' from '[Bb]in
+obj
+[Dd]ebug
+[Rr]elease
+*.user
+*.aps
+*.eto
+Reports
+' to '[Bb]in
+obj
+[Dd]ebug
+[Rr]elease
+*.user
+*.aps
+*.eto
+Reports
+',
+but the property has been locally changed from '[Bb]in
+obj
+[Dd]ebug
+[Rr]elease
+*.user
+*.aps
+*.eto
+Reports
+' to '[Bb]in
+obj
+[Dd]ebug
+[Rr]elease
+*.user
+*.aps
+*.eto
+Reports
+BarCodeDataSet.xsc
+BarCodeDataSet.xsd
+BarCodeDataSet1.Designer.cs
+BarCodeDataSet.Designer.cs
+BarCodeDataSet.xss
+BarCodeDataSet.cs
+SaleDataSet.Designer.cs
+SaleDataSet.xss
+'.

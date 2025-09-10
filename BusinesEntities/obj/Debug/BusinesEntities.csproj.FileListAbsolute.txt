@@ -1,0 +1,384 @@
+C:\Users\Mudeel\Desktop\Assignemt\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+C:\Users\Mudeel\Desktop\Assignemt\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+C:\Users\Mudeel\Desktop\Assignemt\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mudeel\Desktop\Assignemt\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+C:\Users\Mudeel\Desktop\Assignemt\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\Back Up\Projects\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\Back Up\Projects\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\Back Up\Projects\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\Back Up\Projects\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\Back Up\Projects\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+K:\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+K:\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+K:\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+K:\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+K:\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\6-01-2011\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\6-01-2011\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\6-01-2011\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\6-01-2011\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\6-01-2011\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\6-01-2011\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\6-01-2011\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\6-01-2011\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\6-01-2011\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\6-01-2011\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\14-01-11\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\14-01-11\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\14-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\14-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\14-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\17-01-11\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\17-01-11\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\17-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\17-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\17-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\22-01-11\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\22-01-11\Jewel Manager\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\22-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\22-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\22-01-11\Jewel Manager\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\28-02-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\28-02-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\28-02-11\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\28-02-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\28-02-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\03-03-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\03-03-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\03-03-11\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\03-03-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\03-03-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\7-3-11\03-03-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\7-3-11\03-03-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\7-3-11\03-03-11\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\7-3-11\03-03-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\7-3-11\03-03-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\28-3-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\28-3-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\28-3-11\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\28-3-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\28-3-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\13-04-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\13-04-11\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\13-04-11\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\13-04-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\13-04-11\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\naats\Younis BackUp\Tauseef Murtaza Working\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\naats\Younis BackUp\Tauseef Murtaza Working\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\naats\Younis BackUp\Tauseef Murtaza Working\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\naats\Younis BackUp\Tauseef Murtaza Working\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\naats\Younis BackUp\Tauseef Murtaza Working\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\Abbas Working\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\Abbas Working\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\Abbas Working\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\Abbas Working\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\Abbas Working\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+C:\Users\Dell\Desktop\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+C:\Users\Dell\Desktop\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+C:\Users\Dell\Desktop\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+C:\Users\Dell\Desktop\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\FARHAN-PC\Users\Public\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\FARHAN-PC\Users\Public\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\FARHAN-PC\Users\Public\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\FARHAN-PC\Users\Public\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\FARHAN-PC\Users\Public\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+C:\Users\Saim\Desktop\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+C:\Users\Saim\Desktop\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+C:\Users\Saim\Desktop\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saim\Desktop\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+C:\Users\Saim\Desktop\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Saim\e\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Saim\e\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Saim\e\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Saim\e\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Saim\e\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Office\f\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Office\f\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Office\f\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Office\f\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Office\f\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Saim\f\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Saim\f\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Saim\f\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Saim\f\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Saim\f\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\Bringoo\Irfan\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\Bringoo\Irfan\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\Bringoo\Irfan\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\Bringoo\Irfan\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\Bringoo\Irfan\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\Office Backup\Irfan - Copy\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\Office Backup\Irfan - Copy\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\Office Backup\Irfan - Copy\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\Office Backup\Irfan - Copy\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\Office Backup\Irfan - Copy\BusinesEntities\obj\Debug\BusinesEntities.pdb
+F:\Irfan - Copy\BusinesEntities\bin\Debug\BusinesEntities.dll
+F:\Irfan - Copy\BusinesEntities\bin\Debug\BusinesEntities.pdb
+F:\Irfan - Copy\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+F:\Irfan - Copy\BusinesEntities\obj\Debug\BusinesEntities.dll
+F:\Irfan - Copy\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\Bringoo\Irfan - Copy\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\Bringoo\Irfan - Copy\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\Bringoo\Irfan - Copy\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\Bringoo\Irfan - Copy\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\Bringoo\Irfan - Copy\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\Bringoo\Standred\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\Bringoo\Standred\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\Bringoo\Standred\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\Bringoo\Standred\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\Bringoo\Standred\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Bringootechserv\e\Standred\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Bringootechserv\e\Standred\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Bringootechserv\e\Standred\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Bringootechserv\e\Standred\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Bringootechserv\e\Standred\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\bringootechserver\E\Standred\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\bringootechserver\E\Standred\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\bringootechserver\E\Standred\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\bringootechserver\E\Standred\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\bringootechserver\E\Standred\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Server-pc\e\STANDARD\Standred\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Server-pc\e\STANDARD\Standred\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Server-pc\e\STANDARD\Standred\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Server-pc\e\STANDARD\Standred\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Server-pc\e\STANDARD\Standred\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\STANDARD\Standred\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\STANDARD\Standred\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\STANDARD\Standred\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\STANDARD\Standred\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\STANDARD\Standred\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\STANDARD\OLd\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\STANDARD\OLd\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\STANDARD\OLd\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\STANDARD\OLd\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\STANDARD\OLd\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\OLd\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\OLd\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\OLd\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\OLd\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\OLd\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\OLd\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\OLd\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\OLd\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\OLd\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\OLd\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\OLd\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\OLd\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\OLd\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Desktop-3nbc5pr\d\OLd\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\OLd\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Final Standard\OLd\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Final Standard\OLd\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Final Standard\OLd\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Final Standard\OLd\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Final Standard\OLd\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\obj\Debug\ResolveAssemblyReference.cache
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Final Standard\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Final Standard\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Final Standard\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Final Standard\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Final Standard\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+G:\Subhan\New Standard\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+G:\Subhan\New Standard\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+G:\Subhan\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+G:\Subhan\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+G:\Subhan\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Standard Copies\Retail\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Standard Copies\Retail\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Standard Copies\Retail\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\Standard Copies\Retail\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Standard Copies\Retail\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\LockDown Standard Copy\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\LockDown Standard Copy\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\LockDown Standard Copy\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\LockDown Standard Copy\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\LockDown Standard Copy\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\Standard Jewl\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\Standard Jewl\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\Standard Jewl\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\Standard Jewl\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\Standard Jewl\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\Standard Jewl\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Standard Jewl\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Standard Jewl\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\Standard Jewl\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Standard Jewl\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+D:\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+D:\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+D:\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+D:\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\shahid\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\shahid\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\shahid\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+\\shahid\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\shahid\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+E:\NEW STANDARD\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+E:\NEW STANDARD\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+E:\NEW STANDARD\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache
+E:\NEW STANDARD\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+E:\NEW STANDARD\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\bin\Debug\BusinesEntities.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\bin\Debug\BusinesEntities.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\obj\Debug\BusinesEntities.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\obj\Debug\BusinesEntities.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\obj\Debug\BusinesEntities.csprojResolveAssemblyReference.cache

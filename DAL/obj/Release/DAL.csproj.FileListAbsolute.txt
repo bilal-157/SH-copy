@@ -1,0 +1,434 @@
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\DAL\bin\Release\DAL.dll
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\DAL\bin\Release\DAL.pdb
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\DAL\bin\Release\BusinesEntities.dll
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\DAL\bin\Release\BusinesEntities.pdb
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\DAL\obj\Release\DAL.dll
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\DAL\obj\Release\DAL.pdb
+D:\jewl\jewl\DAL\bin\Release\DAL.dll
+D:\jewl\jewl\DAL\bin\Release\DAL.pdb
+D:\jewl\jewl\DAL\bin\Release\BusinesEntities.dll
+D:\jewl\jewl\DAL\bin\Release\BusinesEntities.pdb
+D:\jewl\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\jewl\jewl\DAL\obj\Release\DAL.dll
+D:\jewl\jewl\DAL\obj\Release\DAL.pdb
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\DAL\bin\Release\DAL.dll
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\DAL\bin\Release\DAL.pdb
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\DAL\bin\Release\BusinesEntities.dll
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\DAL\bin\Release\BusinesEntities.pdb
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\DAL\obj\Release\DAL.dll
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\DAL\obj\Release\DAL.pdb
+E:\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+E:\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+E:\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+E:\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+E:\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+E:\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Saim-pc\e\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Saim-pc\e\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Saim-pc\e\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Saim-pc\e\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Saim-pc\e\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Saim-pc\e\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Saim-pc\e\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+D:\Jewellers backup\Waqas khan judoon\jewl\DAL\bin\Release\DAL.dll
+D:\Jewellers backup\Waqas khan judoon\jewl\DAL\bin\Release\DAL.pdb
+D:\Jewellers backup\Waqas khan judoon\jewl\DAL\bin\Release\BusinesEntities.dll
+D:\Jewellers backup\Waqas khan judoon\jewl\DAL\bin\Release\BusinesEntities.pdb
+D:\Jewellers backup\Waqas khan judoon\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Jewellers backup\Waqas khan judoon\jewl\DAL\obj\Release\DAL.dll
+D:\Jewellers backup\Waqas khan judoon\jewl\DAL\obj\Release\DAL.pdb
+\\Saimboy143\f\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Saimboy143\f\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Saimboy143\f\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Saimboy143\f\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Saimboy143\f\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Saimboy143\f\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Saimboy143\f\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+F:\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+F:\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+F:\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+F:\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+F:\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+F:\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+F:\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Saim\f\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Saim\f\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Saim\f\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Saim\f\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Saim\f\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Saim\f\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Saim\f\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Saaim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Saaim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Saaim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Saaim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Saaim\e\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Saaim\e\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Saaim\e\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Saim-pc\d\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Saim-pc\d\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Saim-pc\d\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Saim-pc\d\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Saim-pc\d\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Saim-pc\d\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Saim-pc\d\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+D:\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+D:\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+D:\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+D:\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+D:\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+D:\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+E:\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+E:\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+E:\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+E:\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+E:\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+E:\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Saim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Saim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Saim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Saim\e\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Saim\e\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Saim\e\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Saim\e\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Newbringootech\e\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Newbringootech\e\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Newbringootech\e\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Newbringootech\e\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Newbringootech\e\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Newbringootech\e\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Newbringootech\e\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Saim\f\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Saim\f\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Saim\f\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Saim\f\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Saim\f\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Saim\f\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Saim\f\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\server-pc\G\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\server-pc\G\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\server-pc\G\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\G\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\G\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\G\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\server-pc\G\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.dll
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\DAL\bin\Release\DAL.pdb
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.dll
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\DAL\bin\Release\BusinesEntities.pdb
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.dll
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\DAL\obj\Release\DAL.pdb
+F:\Irfan - Copy\DAL\bin\Release\DAL.dll
+F:\Irfan - Copy\DAL\bin\Release\DAL.pdb
+F:\Irfan - Copy\DAL\bin\Release\BusinesEntities.dll
+F:\Irfan - Copy\DAL\bin\Release\BusinesEntities.pdb
+F:\Irfan - Copy\DAL\obj\Release\ResolveAssemblyReference.cache
+F:\Irfan - Copy\DAL\obj\Release\DAL.dll
+F:\Irfan - Copy\DAL\obj\Release\DAL.pdb
+E:\Bringoo\Standred\DAL\bin\Release\DAL.dll
+E:\Bringoo\Standred\DAL\bin\Release\DAL.pdb
+E:\Bringoo\Standred\DAL\bin\Release\BusinesEntities.dll
+E:\Bringoo\Standred\DAL\bin\Release\BusinesEntities.pdb
+E:\Bringoo\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\Bringoo\Standred\DAL\obj\Release\DAL.dll
+E:\Bringoo\Standred\DAL\obj\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\DAL\bin\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\DAL\bin\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\DAL\bin\Release\BusinesEntities.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\DAL\bin\Release\BusinesEntities.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\DAL\obj\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\DAL\obj\Release\DAL.pdb
+\\bringootechserver\E\Standred\DAL\bin\Release\DAL.dll
+\\bringootechserver\E\Standred\DAL\bin\Release\DAL.pdb
+\\bringootechserver\E\Standred\DAL\bin\Release\BusinesEntities.dll
+\\bringootechserver\E\Standred\DAL\bin\Release\BusinesEntities.pdb
+\\bringootechserver\E\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+\\bringootechserver\E\Standred\DAL\obj\Release\DAL.dll
+\\bringootechserver\E\Standred\DAL\obj\Release\DAL.pdb
+\\Bringootechserv\E\Standred\DAL\bin\Release\DAL.dll
+\\Bringootechserv\E\Standred\DAL\bin\Release\DAL.pdb
+\\Bringootechserv\E\Standred\DAL\bin\Release\BusinesEntities.dll
+\\Bringootechserv\E\Standred\DAL\bin\Release\BusinesEntities.pdb
+\\Bringootechserv\E\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Bringootechserv\E\Standred\DAL\obj\Release\DAL.dll
+\\Bringootechserv\E\Standred\DAL\obj\Release\DAL.pdb
+\\serverpc\Data\OneDrive\Standred\DAL\bin\Release\DAL.dll
+\\serverpc\Data\OneDrive\Standred\DAL\bin\Release\DAL.pdb
+\\serverpc\Data\OneDrive\Standred\DAL\bin\Release\BusinesEntities.dll
+\\serverpc\Data\OneDrive\Standred\DAL\bin\Release\BusinesEntities.pdb
+\\serverpc\Data\OneDrive\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+\\serverpc\Data\OneDrive\Standred\DAL\obj\Release\DAL.dll
+\\serverpc\Data\OneDrive\Standred\DAL\obj\Release\DAL.pdb
+F:\OneDrive\Standred\DAL\bin\Release\DAL.dll
+F:\OneDrive\Standred\DAL\bin\Release\DAL.pdb
+F:\OneDrive\Standred\DAL\bin\Release\BusinesEntities.dll
+F:\OneDrive\Standred\DAL\bin\Release\BusinesEntities.pdb
+F:\OneDrive\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+F:\OneDrive\Standred\DAL\obj\Release\DAL.dll
+F:\OneDrive\Standred\DAL\obj\Release\DAL.pdb
+\\server-pc\F\OneDrive\Standred\DAL\bin\Release\DAL.dll
+\\server-pc\F\OneDrive\Standred\DAL\bin\Release\DAL.pdb
+\\server-pc\F\OneDrive\Standred\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\F\OneDrive\Standred\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\F\OneDrive\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\F\OneDrive\Standred\DAL\obj\Release\DAL.dll
+\\server-pc\F\OneDrive\Standred\DAL\obj\Release\DAL.pdb
+G:\OneDrive\STANDARD\Standred\DAL\bin\Release\DAL.dll
+G:\OneDrive\STANDARD\Standred\DAL\bin\Release\DAL.pdb
+G:\OneDrive\STANDARD\Standred\DAL\bin\Release\BusinesEntities.dll
+G:\OneDrive\STANDARD\Standred\DAL\bin\Release\BusinesEntities.pdb
+G:\OneDrive\STANDARD\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+G:\OneDrive\STANDARD\Standred\DAL\obj\Release\DAL.dll
+G:\OneDrive\STANDARD\Standred\DAL\obj\Release\DAL.pdb
+\\server-pc\G\OneDrive\STANDARD\Standred\DAL\bin\Release\DAL.dll
+\\server-pc\G\OneDrive\STANDARD\Standred\DAL\bin\Release\DAL.pdb
+\\server-pc\G\OneDrive\STANDARD\Standred\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\G\OneDrive\STANDARD\Standred\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\G\OneDrive\STANDARD\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\G\OneDrive\STANDARD\Standred\DAL\obj\Release\DAL.dll
+\\server-pc\G\OneDrive\STANDARD\Standred\DAL\obj\Release\DAL.pdb
+E:\CustomerData\StJewlDB\Standred\DAL\bin\Release\DAL.dll
+E:\CustomerData\StJewlDB\Standred\DAL\bin\Release\DAL.pdb
+E:\CustomerData\StJewlDB\Standred\DAL\bin\Release\BusinesEntities.dll
+E:\CustomerData\StJewlDB\Standred\DAL\bin\Release\BusinesEntities.pdb
+E:\CustomerData\StJewlDB\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\CustomerData\StJewlDB\Standred\DAL\obj\Release\DAL.dll
+E:\CustomerData\StJewlDB\Standred\DAL\obj\Release\DAL.pdb
+\\server-pc\F\STANDARD\Standred\DAL\bin\Release\DAL.dll
+\\server-pc\F\STANDARD\Standred\DAL\bin\Release\DAL.pdb
+\\server-pc\F\STANDARD\Standred\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\F\STANDARD\Standred\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\F\STANDARD\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\F\STANDARD\Standred\DAL\obj\Release\DAL.dll
+\\server-pc\F\STANDARD\Standred\DAL\obj\Release\DAL.pdb
+\\server-pc\E\STANDARD\Standred\DAL\bin\Release\DAL.dll
+\\server-pc\E\STANDARD\Standred\DAL\bin\Release\DAL.pdb
+\\server-pc\E\STANDARD\Standred\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\E\STANDARD\Standred\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\E\STANDARD\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\E\STANDARD\Standred\DAL\obj\Release\DAL.dll
+\\server-pc\E\STANDARD\Standred\DAL\obj\Release\DAL.pdb
+E:\STANDARD\Standred\DAL\bin\Release\DAL.dll
+E:\STANDARD\Standred\DAL\bin\Release\DAL.pdb
+E:\STANDARD\Standred\DAL\bin\Release\BusinesEntities.dll
+E:\STANDARD\Standred\DAL\bin\Release\BusinesEntities.pdb
+E:\STANDARD\Standred\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\STANDARD\Standred\DAL\obj\Release\DAL.dll
+E:\STANDARD\Standred\DAL\obj\Release\DAL.pdb
+E:\STANDARD\OLd\DAL\bin\Release\DAL.dll
+E:\STANDARD\OLd\DAL\bin\Release\DAL.pdb
+E:\STANDARD\OLd\DAL\bin\Release\BusinesEntities.dll
+E:\STANDARD\OLd\DAL\bin\Release\BusinesEntities.pdb
+E:\STANDARD\OLd\DAL\obj\Release\ResolveAssemblyReference.cache
+E:\STANDARD\OLd\DAL\obj\Release\DAL.dll
+E:\STANDARD\OLd\DAL\obj\Release\DAL.pdb
+D:\OLd\DAL\bin\Release\DAL.dll
+D:\OLd\DAL\bin\Release\DAL.pdb
+D:\OLd\DAL\bin\Release\BusinesEntities.dll
+D:\OLd\DAL\bin\Release\BusinesEntities.pdb
+D:\OLd\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\OLd\DAL\obj\Release\DAL.dll
+D:\OLd\DAL\obj\Release\DAL.pdb
+D:\Final Standard\OLd\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Final Standard\OLd\DAL\bin\Release\DAL.dll
+D:\Final Standard\OLd\DAL\bin\Release\DAL.pdb
+D:\Final Standard\OLd\DAL\bin\Release\BusinesEntities.dll
+D:\Final Standard\OLd\DAL\bin\Release\BusinesEntities.pdb
+D:\Final Standard\OLd\DAL\obj\Release\DAL.dll
+D:\Final Standard\OLd\DAL\obj\Release\DAL.pdb
+\\Desktop-3nbc5pr\d\Final Standard\OLd\DAL\bin\Release\DAL.dll
+\\Desktop-3nbc5pr\d\Final Standard\OLd\DAL\bin\Release\DAL.pdb
+\\Desktop-3nbc5pr\d\Final Standard\OLd\DAL\bin\Release\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\OLd\DAL\bin\Release\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\OLd\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Desktop-3nbc5pr\d\Final Standard\OLd\DAL\obj\Release\DAL.dll
+\\Desktop-3nbc5pr\d\Final Standard\OLd\DAL\obj\Release\DAL.pdb
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\DAL\bin\Release\DAL.dll
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\DAL\bin\Release\DAL.pdb
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\DAL\obj\Release\DAL.dll
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\DAL\obj\Release\DAL.pdb
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\DAL\bin\Release\DAL.dll
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\DAL\bin\Release\DAL.pdb
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\DAL\obj\Release\ResolveAssemblyReference.cache
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\DAL\obj\Release\DAL.dll
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\DAL\obj\Release\DAL.pdb
+D:\Final Standard\New Stand\Standard\DAL\bin\Release\DAL.dll
+D:\Final Standard\New Stand\Standard\DAL\bin\Release\DAL.pdb
+D:\Final Standard\New Stand\Standard\DAL\bin\Release\BusinesEntities.dll
+D:\Final Standard\New Stand\Standard\DAL\bin\Release\BusinesEntities.pdb
+D:\Final Standard\New Stand\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Final Standard\New Stand\Standard\DAL\obj\Release\DAL.dll
+D:\Final Standard\New Stand\Standard\DAL\obj\Release\DAL.pdb
+C:\Users\Server-Pc\Pictures\New Stand\Standard\DAL\bin\Release\DAL.dll
+C:\Users\Server-Pc\Pictures\New Stand\Standard\DAL\bin\Release\DAL.pdb
+C:\Users\Server-Pc\Pictures\New Stand\Standard\DAL\bin\Release\BusinesEntities.dll
+C:\Users\Server-Pc\Pictures\New Stand\Standard\DAL\bin\Release\BusinesEntities.pdb
+C:\Users\Server-Pc\Pictures\New Stand\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Server-Pc\Pictures\New Stand\Standard\DAL\obj\Release\DAL.dll
+C:\Users\Server-Pc\Pictures\New Stand\Standard\DAL\obj\Release\DAL.pdb
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\DAL.dll
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\DAL.pdb
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\BusinesEntities.dll
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\BusinesEntities.pdb
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\obj\Release\DAL.dll
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\obj\Release\DAL.pdb
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\DAL.dll
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\DAL.pdb
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\obj\Release\DAL.dll
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\DAL\obj\Release\DAL.pdb
+G:\Azeem Jewllers\Standard\DAL\bin\Release\DAL.dll
+G:\Azeem Jewllers\Standard\DAL\bin\Release\DAL.pdb
+G:\Azeem Jewllers\Standard\DAL\bin\Release\BusinesEntities.dll
+G:\Azeem Jewllers\Standard\DAL\bin\Release\BusinesEntities.pdb
+G:\Azeem Jewllers\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\Azeem Jewllers\Standard\DAL\obj\Release\DAL.dll
+G:\Azeem Jewllers\Standard\DAL\obj\Release\DAL.pdb
+G:\Subhan\New Standard\Standard\DAL\bin\Release\DAL.dll
+G:\Subhan\New Standard\Standard\DAL\bin\Release\DAL.pdb
+G:\Subhan\New Standard\Standard\DAL\bin\Release\BusinesEntities.dll
+G:\Subhan\New Standard\Standard\DAL\bin\Release\BusinesEntities.pdb
+G:\Subhan\New Standard\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\Subhan\New Standard\Standard\DAL\obj\Release\DAL.dll
+G:\Subhan\New Standard\Standard\DAL\obj\Release\DAL.pdb
+F:\New Standard\Standard\DAL\bin\Release\DAL.dll
+F:\New Standard\Standard\DAL\bin\Release\DAL.pdb
+F:\New Standard\Standard\DAL\bin\Release\BusinesEntities.dll
+F:\New Standard\Standard\DAL\bin\Release\BusinesEntities.pdb
+F:\New Standard\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\New Standard\Standard\DAL\obj\Release\DAL.dll
+F:\New Standard\Standard\DAL\obj\Release\DAL.pdb
+G:\Subhan Karachi\New Standard\Standard\DAL\bin\Release\DAL.dll
+G:\Subhan Karachi\New Standard\Standard\DAL\bin\Release\DAL.pdb
+G:\Subhan Karachi\New Standard\Standard\DAL\bin\Release\BusinesEntities.dll
+G:\Subhan Karachi\New Standard\Standard\DAL\bin\Release\BusinesEntities.pdb
+G:\Subhan Karachi\New Standard\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\Subhan Karachi\New Standard\Standard\DAL\obj\Release\DAL.dll
+G:\Subhan Karachi\New Standard\Standard\DAL\obj\Release\DAL.pdb
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\DAL\bin\Release\DAL.dll
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\DAL\bin\Release\DAL.pdb
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\DAL\obj\Release\DAL.dll
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\DAL\obj\Release\DAL.pdb
+\\Saim\e\Final Standard\Standard\DAL\bin\Release\DAL.dll
+\\Saim\e\Final Standard\Standard\DAL\bin\Release\DAL.pdb
+\\Saim\e\Final Standard\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Saim\e\Final Standard\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Saim\e\Final Standard\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\Saim\e\Final Standard\Standard\DAL\obj\Release\DAL.dll
+\\Saim\e\Final Standard\Standard\DAL\obj\Release\DAL.pdb
+\\Saim\d\Standard Copies\Retail\Standard\DAL\bin\Release\DAL.dll
+\\Saim\d\Standard Copies\Retail\Standard\DAL\bin\Release\DAL.pdb
+\\Saim\d\Standard Copies\Retail\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Saim\d\Standard Copies\Retail\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Saim\d\Standard Copies\Retail\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\Saim\d\Standard Copies\Retail\Standard\DAL\obj\Release\DAL.dll
+\\Saim\d\Standard Copies\Retail\Standard\DAL\obj\Release\DAL.pdb
+D:\Standard Copies\Retail\Standard\DAL\bin\Release\DAL.dll
+D:\Standard Copies\Retail\Standard\DAL\bin\Release\DAL.pdb
+D:\Standard Copies\Retail\Standard\DAL\bin\Release\BusinesEntities.dll
+D:\Standard Copies\Retail\Standard\DAL\bin\Release\BusinesEntities.pdb
+D:\Standard Copies\Retail\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Standard Copies\Retail\Standard\DAL\obj\Release\DAL.dll
+D:\Standard Copies\Retail\Standard\DAL\obj\Release\DAL.pdb
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\DAL.dll
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\DAL.pdb
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\BusinesEntities.dll
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\BusinesEntities.pdb
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\obj\Release\DAL.dll
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\obj\Release\DAL.pdb
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\DAL.dll
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\DAL.pdb
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\obj\Release\DAL.dll
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\DAL\obj\Release\DAL.pdb
+D:\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.dll
+D:\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.pdb
+D:\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.dll
+D:\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.pdb
+D:\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.dll
+D:\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.pdb
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.dll
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.pdb
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.dll
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.pdb
+E:\Standard Jewl\Standard\DAL\bin\Release\DAL.dll
+E:\Standard Jewl\Standard\DAL\bin\Release\DAL.pdb
+E:\Standard Jewl\Standard\DAL\bin\Release\BusinesEntities.dll
+E:\Standard Jewl\Standard\DAL\bin\Release\BusinesEntities.pdb
+E:\Standard Jewl\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Standard Jewl\Standard\DAL\obj\Release\DAL.dll
+E:\Standard Jewl\Standard\DAL\obj\Release\DAL.pdb
+D:\Standard Jewl\Standard\DAL\bin\Release\DAL.dll
+D:\Standard Jewl\Standard\DAL\bin\Release\DAL.pdb
+D:\Standard Jewl\Standard\DAL\bin\Release\BusinesEntities.dll
+D:\Standard Jewl\Standard\DAL\bin\Release\BusinesEntities.pdb
+D:\Standard Jewl\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Standard Jewl\Standard\DAL\obj\Release\DAL.dll
+D:\Standard Jewl\Standard\DAL\obj\Release\DAL.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.dll
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.dll
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\DAL\bin\Release\DAL.dll
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\DAL\bin\Release\DAL.pdb
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\DAL\obj\Release\DAL.dll
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\DAL\obj\Release\DAL.pdb
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.dll
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\DAL.pdb
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.dll
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\DAL\obj\Release\DAL.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\DAL\bin\Release\DAL.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\DAL\bin\Release\DAL.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\DAL\bin\Release\BusinesEntities.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\DAL\obj\Release\DAL.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\DAL\obj\Release\DAL.pdb
+E:\NEW STANDARD\Standard\DAL\bin\Release\DAL.dll
+E:\NEW STANDARD\Standard\DAL\bin\Release\DAL.pdb
+E:\NEW STANDARD\Standard\DAL\bin\Release\BusinesEntities.dll
+E:\NEW STANDARD\Standard\DAL\bin\Release\BusinesEntities.pdb
+E:\NEW STANDARD\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\NEW STANDARD\Standard\DAL\obj\Release\DAL.dll
+E:\NEW STANDARD\Standard\DAL\obj\Release\DAL.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\DAL\bin\Release\DAL.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\DAL\bin\Release\DAL.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\DAL\bin\Release\BusinesEntities.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\DAL\bin\Release\BusinesEntities.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\Shahid\g\Software installation\Retailer Software\Standard\DAL\obj\Release\DAL.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\DAL\obj\Release\DAL.pdb

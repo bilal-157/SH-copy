@@ -1,0 +1,296 @@
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\Jewellers backup\Abid Gold Jewellers Lahore liberty\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\jewl\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\jewl\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\jewl\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+D:\jewl\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\jewl\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\Jewellers backup\Moti Wala Jewellers Lahore\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+E:\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saim-pc\e\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saim-pc\e\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saim-pc\e\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Saim-pc\e\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saim-pc\e\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\Jewellers backup\Waqas khan judoon\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saimboy143\f\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+F:\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+F:\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+F:\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+F:\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+F:\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saim\f\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saim\f\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saim\f\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Saim\f\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saim\f\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saaim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saim-pc\d\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saim-pc\d\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saim-pc\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Saim-pc\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saim-pc\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+D:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+E:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saim\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Newbringootech\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Newbringootech\e\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Newbringootech\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Newbringootech\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Newbringootech\e\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saim\f\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\G\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Desktop-88348t6\d\New EXE\New Exe Information\jewl\BusinesEntities\obj\Release\BusinesEntities.pdb
+F:\Irfan - Copy\BusinesEntities\bin\Release\BusinesEntities.dll
+F:\Irfan - Copy\BusinesEntities\bin\Release\BusinesEntities.pdb
+F:\Irfan - Copy\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+F:\Irfan - Copy\BusinesEntities\obj\Release\BusinesEntities.dll
+F:\Irfan - Copy\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\Bringoo\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\Bringoo\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\Bringoo\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+E:\Bringoo\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\Bringoo\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\bringootechserver\E\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+\\bringootechserver\E\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\bringootechserver\E\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\bringootechserver\E\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+\\bringootechserver\E\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Bringootechserv\E\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Bringootechserv\E\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Bringootechserv\E\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Bringootechserv\E\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Bringootechserv\E\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\serverpc\Data\OneDrive\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+\\serverpc\Data\OneDrive\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\serverpc\Data\OneDrive\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\serverpc\Data\OneDrive\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+\\serverpc\Data\OneDrive\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+F:\OneDrive\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+F:\OneDrive\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+F:\OneDrive\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+F:\OneDrive\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+F:\OneDrive\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\F\OneDrive\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\F\OneDrive\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\F\OneDrive\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\F\OneDrive\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\F\OneDrive\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+G:\OneDrive\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+G:\OneDrive\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+G:\OneDrive\STANDARD\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+G:\OneDrive\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+G:\OneDrive\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\G\OneDrive\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\G\OneDrive\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\G\OneDrive\STANDARD\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\G\OneDrive\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\G\OneDrive\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\CustomerData\StJewlDB\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\CustomerData\StJewlDB\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\CustomerData\StJewlDB\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+E:\CustomerData\StJewlDB\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\CustomerData\StJewlDB\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\F\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\F\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\F\STANDARD\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\F\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\F\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\E\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\E\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\E\STANDARD\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\server-pc\E\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\E\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\STANDARD\Standred\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\STANDARD\Standred\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+E:\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\STANDARD\Standred\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\STANDARD\OLd\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\STANDARD\OLd\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\STANDARD\OLd\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+E:\STANDARD\OLd\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\STANDARD\OLd\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\OLd\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\OLd\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\OLd\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+D:\OLd\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\OLd\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\Final Standard\OLd\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\Final Standard\OLd\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\Final Standard\OLd\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+D:\Final Standard\OLd\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\Final Standard\OLd\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\OLd\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Server-pc\e\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\obj\Release\ResolveAssemblyReference.cache
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Desktop-3nbc5pr\d\Final Standard\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\Final Standard\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\Final Standard\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\Final Standard\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\Final Standard\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+C:\Users\Server-Pc\Pictures\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Azeem Jewellers model Town Lahore 03004630105\New Stand\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+G:\Azeem Jewllers\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+G:\Azeem Jewllers\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+G:\Azeem Jewllers\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+G:\Azeem Jewllers\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+G:\Azeem Jewllers\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+G:\Subhan\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+G:\Subhan\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+G:\Subhan\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+G:\Subhan\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+G:\Subhan\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+F:\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+F:\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+F:\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+F:\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+F:\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+G:\Subhan Karachi\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\E\JewellersBackUp\Subhan Jewellers G 24 saima Mall Stadium Road Gulshan e Iqbal Karachi\New Standard\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Saim\d\Standard Copies\Retail\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\Standard Copies\Retail\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\Standard Copies\Retail\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\Standard Copies\Retail\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\Standard Copies\Retail\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\Standard Copies\Retail\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\LockDown Standard Copy\LockDown Standard Copy\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\D\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\Standard Jewl\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\Standard Jewl\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\Standard Jewl\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+E:\Standard Jewl\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\Standard Jewl\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+D:\Standard Jewl\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+D:\Standard Jewl\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+D:\Standard Jewl\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+D:\Standard Jewl\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+D:\Standard Jewl\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Server-pc\f\F-DriveData\JewellersBackUp\S\Saeed Jewellers Daska\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Server-pc\f\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Server-pc\d\D-DriveData\LockDown Standard Copy\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+E:\NEW STANDARD\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+E:\NEW STANDARD\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+E:\NEW STANDARD\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+E:\NEW STANDARD\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+E:\NEW STANDARD\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\bin\Release\BusinesEntities.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\bin\Release\BusinesEntities.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\obj\Release\BusinesEntities.csprojResolveAssemblyReference.cache
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\obj\Release\BusinesEntities.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\BusinesEntities\obj\Release\BusinesEntities.pdb

@@ -1,0 +1,662 @@
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\jewl.exe.config
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.exe
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\jewl.exe
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\jewl.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\AForge.Video.DirectShow.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\AForge.Video.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\BusinesEntities.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\DAL.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\BusinesEntities.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\bin\Release\DAL.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.csprojResolveAssemblyReference.cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddBulkStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.BackUpPath.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.BankPaymentVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.BankReceiptVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.CashPaymentVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.CashReceiptVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.EditOrdderNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.EditSPNO.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.EditWorkerNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Edit_Return.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frm.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmBalanceInvoiceRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmcontactus.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmEdit_ReturnRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmPassword.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmSilver.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmSplit.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.JournalVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageBank.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageBankAccount.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddCity.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddCountry.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.BarCodeReportViewer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageCustomer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddDesign.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddItem.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManagePurchase.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageSalesMan.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddSample.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddStones.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AddSupplier.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageWorker.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.BalanceReceive.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ChartOfAccount.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.CompleteSampleRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.CreateUser.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.EditNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.BarCodeReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.GoldRate.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Login.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Form1.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Form2.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.AccountReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ChangePassword.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmCustomerPostalRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmCustomerRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmDamageItmWise.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.DamageReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmDamageStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmDeletedItemsReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmDeletedStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmDelItemItmWise.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageChild.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageOrder.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.GoldPurchase.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRptByDate.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleSummaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmGoldRateRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.GoldRatesReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmGoldRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.GoldSale.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmGoldSalePurchaseReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmGroupRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmHeadRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmInputStockPics.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmLooseStonesPurchase.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmLooseStonesRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.OrderReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmPOrderWorkerWiseRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmProfitLoss.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmProfitLossByItm.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmProfitLossReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmRepairing.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmRepairingReport.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmRepairingRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmRepairNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Password.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.RDLCReport.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ReportsPassword.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SaleReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SalesManAdvance.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmSaleManReport.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmSaleRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SplitSaleReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmStockCheck.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmStockCheckRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SampleReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.StartUp.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.StockReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmStonesRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmSubGroupRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmTagHistory.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmTagHistoryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmTest.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWDDetailByWorker.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerCheejadRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealByDateRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealingReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealingRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealingSummaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerListRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerPurcheeRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.GoldConversion.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Main.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Main2.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageParent.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageSale.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageSample.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.OrderEstimateBill.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmPartyInfo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.PaymentOption.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.PictureFullView.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.PasaGoldRate.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Properties.Resources.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.PurchaseReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ReportViewer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SalaryIncrOrDecr.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SaleManAttendance.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SaleManListRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SalesManSalary.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SaleReciveableRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SalesManAdvanceRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SalesManAttendenceRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SalesManSalaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmSampleReturn.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SampleByItmRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SampledCustomer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SampleReturn.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SearchOrder.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SearchResult.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SelectCustomer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.SendSMS.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ManageSilverSale.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmStockBalance.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.StockReportFrm.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.StockReportsPics.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.StockSearch.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.StoneDetail.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.StonesSummaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.testing.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.VeiwPictures.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ViewPicturesRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.ViewSalePictureRopt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\WebCam_Capture.WebCamCapture.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealing.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.WorkerDealingBill.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.csproj.GenerateResource.Cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\RdlCompile.cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\RdlCompile.compiled
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Standard\jewl\obj\Release\jewl.Form3.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\New folder\Retailer\Standard\jewl\bin\Release\jewl.exe.config
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\New folder\Retailer\Standard\jewl\obj\Release\jewl.exe
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\New folder\Retailer\Standard\jewl\obj\Release\jewl.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\jewl.exe.config
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\jewl.exe
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\jewl.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\AForge.Video.DirectShow.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\AForge.Video.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\BusinesEntities.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\DAL.dll
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\BusinesEntities.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\DAL.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.csprojResolveAssemblyReference.cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddBulkStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.BackUpPath.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.BankPaymentVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.BankReceiptVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.CashPaymentVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.CashReceiptVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.EditOrdderNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.EditSPNO.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.EditWorkerNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Edit_Return.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Form3.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frm.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmBalanceInvoiceRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmcontactus.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmEdit_ReturnRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmPassword.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmSilver.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmSplit.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.JournalVoucher.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageBank.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageBankAccount.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddCity.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddCountry.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.BarCodeReportViewer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageCustomer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddDesign.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddItem.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManagePurchase.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageSalesMan.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddSample.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddStones.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AddSupplier.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageWorker.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.BalanceReceive.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ChartOfAccount.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.CompleteSampleRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.CreateUser.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.EditNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.BarCodeReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.GoldRate.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Login.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Form1.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Form2.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.AccountReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ChangePassword.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmCustomerPostalRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmCustomerRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmDamageItmWise.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.DamageReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmDamageStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmDeletedItemsReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmDeletedStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmDelItemItmWise.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageChild.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageOrder.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.GoldPurchase.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRptByDate.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleSummaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmGoldRateRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.GoldRatesReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmGoldRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.GoldSale.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmGoldSalePurchaseReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmGroupRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmHeadRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmInputStockPics.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmLooseStonesPurchase.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmLooseStonesRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.OrderReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmPOrderWorkerWiseRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmProfitLoss.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmProfitLossByItm.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmProfitLossReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmRepairing.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmRepairingReport.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmRepairingRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmRepairNo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Password.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.RDLCReport.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ReportsPassword.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SaleReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SalesManAdvance.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmSaleManReport.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmSaleRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SplitSaleReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmStockCheck.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmStockCheckRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SampleReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.StartUp.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.StockReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmStonesRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmSubGroupRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmTagHistory.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmTagHistoryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmTest.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWDDetailByWorker.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerCheejadRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealByDateRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealingReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealingRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealingSummaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerListRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerPurcheeRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.GoldConversion.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Main.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Main2.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageParent.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageSale.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageSample.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageStock.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.OrderEstimateBill.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmPartyInfo.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.PaymentOption.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.PictureFullView.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.PasaGoldRate.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.Properties.Resources.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.PurchaseReports.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ReportViewer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SalaryIncrOrDecr.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SaleManAttendance.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SaleManListRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SalesManSalary.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SaleReciveableRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SalesManAdvanceRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SalesManAttendenceRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SalesManSalaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmSampleReturn.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SampleByItmRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SampledCustomer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SampleReturn.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SearchOrder.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SearchResult.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SelectCustomer.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.SendSMS.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ManageSilverSale.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmStockBalance.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.StockReportFrm.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.StockReportsPics.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.StockSearch.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.StoneDetail.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.StonesSummaryRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.testing.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.VeiwPictures.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ViewPicturesRpt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.ViewSalePictureRopt.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\WebCam_Capture.WebCamCapture.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.frmWorkerDealing.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.WorkerDealingBill.resources
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.csproj.GenerateResource.Cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\RdlCompile.cache
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\RdlCompile.compiled
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.exe
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\obj\Release\jewl.pdb
+\\server-pc\D\D-DriveData\LockDown Standard Copy\Retailer\Retailer\Standard\jewl\bin\Release\Microsoft.SqlServer.Replication.dll
+E:\NEW STANDARD\Standard\jewl\bin\Release\jewl.exe.config
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.exe
+E:\NEW STANDARD\Standard\jewl\bin\Release\jewl.exe
+E:\NEW STANDARD\Standard\jewl\bin\Release\jewl.pdb
+E:\NEW STANDARD\Standard\jewl\bin\Release\AForge.Video.DirectShow.dll
+E:\NEW STANDARD\Standard\jewl\bin\Release\AForge.Video.dll
+E:\NEW STANDARD\Standard\jewl\bin\Release\BusinesEntities.dll
+E:\NEW STANDARD\Standard\jewl\bin\Release\DAL.dll
+E:\NEW STANDARD\Standard\jewl\bin\Release\Microsoft.SqlServer.Replication.dll
+E:\NEW STANDARD\Standard\jewl\bin\Release\BusinesEntities.pdb
+E:\NEW STANDARD\Standard\jewl\bin\Release\DAL.pdb
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.csprojResolveAssemblyReference.cache
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddBulkStock.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.BackUpPath.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.BankPaymentVoucher.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.BankReceiptVoucher.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.CashPaymentVoucher.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.CashReceiptVoucher.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.EditOrdderNo.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.EditSPNO.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.EditWorkerNo.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Edit_Return.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Form3.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frm.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmBalanceInvoiceRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmcontactus.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmEdit_ReturnRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmPassword.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmSilver.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmSplit.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.JournalVoucher.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageBank.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageBankAccount.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddCity.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddCountry.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.BarCodeReportViewer.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageCustomer.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddDesign.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddItem.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManagePurchase.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageSalesMan.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddSample.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddStones.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AddSupplier.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageWorker.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.BalanceReceive.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ChartOfAccount.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.CompleteSampleRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.CreateUser.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.EditNo.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.BarCodeReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.GoldRate.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Login.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Form1.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Form2.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.AccountReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ChangePassword.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmCustomerPostalRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmCustomerRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmDamageItmWise.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.DamageReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmDamageStock.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmDeletedItemsReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmDeletedStock.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmDelItemItmWise.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageChild.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageOrder.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.GoldPurchase.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRptByDate.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleSummaryRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmGoldRateRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.GoldRatesReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmGoldRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.GoldSale.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmGoldSalePurchaseReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmGroupRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmHeadRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmInputStockPics.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmLooseStonesPurchase.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmLooseStonesRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.OrderReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmPOrderWorkerWiseRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmProfitLoss.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmProfitLossByItm.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmProfitLossReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmRepairing.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmRepairingReport.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmRepairingRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmRepairNo.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Password.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.RDLCReport.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ReportsPassword.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SaleReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SalesManAdvance.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmSaleManReport.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmSaleRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SplitSaleReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmStockCheck.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmStockCheckRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SampleReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.StartUp.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.StockReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmStonesRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmSubGroupRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmTagHistory.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmTagHistoryRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmTest.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWDDetailByWorker.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerCheejadRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerDealByDateRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerDealingReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerDealingRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerDealingSummaryRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerListRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerPurcheeRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.GoldConversion.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Main.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Main2.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageParent.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageSale.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageSample.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageStock.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.OrderEstimateBill.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmPartyInfo.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.PaymentOption.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.PictureFullView.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.PasaGoldRate.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.Properties.Resources.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.PurchaseReports.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ReportViewer.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SalaryIncrOrDecr.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SaleManAttendance.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SaleManListRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SalesManSalary.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SaleReciveableRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SalesManAdvanceRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SalesManAttendenceRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SalesManSalaryRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmSampleReturn.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SampleByItmRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SampledCustomer.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SampleReturn.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SearchOrder.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SearchResult.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SelectCustomer.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.SendSMS.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ManageSilverSale.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmStockBalance.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.StockReportFrm.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.StockReportsPics.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.StockSearch.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.StoneDetail.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.StonesSummaryRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.testing.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.VeiwPictures.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ViewPicturesRpt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.ViewSalePictureRopt.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\WebCam_Capture.WebCamCapture.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.frmWorkerDealing.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.WorkerDealingBill.resources
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.csproj.GenerateResource.Cache
+E:\NEW STANDARD\Standard\jewl\obj\Release\RdlCompile.cache
+E:\NEW STANDARD\Standard\jewl\obj\Release\RdlCompile.compiled
+E:\NEW STANDARD\Standard\jewl\obj\Release\jewl.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\jewl.exe.config
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.exe
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\jewl.exe
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\jewl.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\AForge.Video.DirectShow.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\AForge.Video.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\BusinesEntities.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\DAL.dll
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\BusinesEntities.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\DAL.pdb
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.csprojResolveAssemblyReference.cache
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddBulkStock.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.BackUpPath.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.BankPaymentVoucher.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.BankReceiptVoucher.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.CashPaymentVoucher.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.CashReceiptVoucher.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.EditOrdderNo.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.EditSPNO.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.EditWorkerNo.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Edit_Return.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Form3.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frm.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmBalanceInvoiceRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmcontactus.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmEdit_ReturnRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmPassword.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmSilver.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmSplit.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.JournalVoucher.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageBank.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageBankAccount.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddCity.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddCountry.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.BarCodeReportViewer.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageCustomer.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddDesign.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddItem.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManagePurchase.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageSalesMan.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddSample.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddStones.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AddSupplier.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageWorker.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.BalanceReceive.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ChartOfAccount.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.CompleteSampleRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.CreateUser.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.EditNo.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.BarCodeReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.GoldRate.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Login.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Form1.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Form2.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.AccountReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ChangePassword.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmCustomerPostalRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmCustomerRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmDamageItmWise.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.DamageReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmDamageStock.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmDeletedItemsReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmDeletedStock.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmDelItemItmWise.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageChild.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageOrder.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.GoldPurchase.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleRptByDate.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmGoldPurchaseSaleSummaryRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmGoldRateRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.GoldRatesReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmGoldRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.GoldSale.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmGoldSalePurchaseReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmGroupRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmHeadRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmInputStockPics.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmLooseStonesPurchase.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmLooseStonesRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.OrderReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmPOrderWorkerWiseRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmProfitLoss.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmProfitLossByItm.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmProfitLossReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmRepairing.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmRepairingReport.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmRepairingRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmRepairNo.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Password.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.RDLCReport.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ReportsPassword.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SaleReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SalesManAdvance.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmSaleManReport.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmSaleRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SplitSaleReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmStockCheck.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmStockCheckRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SampleReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.StartUp.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.StockReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmStonesRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmSubGroupRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmTagHistory.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmTagHistoryRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmTest.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWDDetailByWorker.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerCheejadRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerDealByDateRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerDealingReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerDealingRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerDealingSummaryRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerListRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerPurcheeRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.GoldConversion.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Main.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Main2.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageParent.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageSale.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageSample.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageStock.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.OrderEstimateBill.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmPartyInfo.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.PaymentOption.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.PictureFullView.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.PasaGoldRate.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.Properties.Resources.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.PurchaseReports.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ReportViewer.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SalaryIncrOrDecr.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SaleManAttendance.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SaleManListRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SalesManSalary.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SaleReciveableRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SalesManAdvanceRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SalesManAttendenceRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SalesManSalaryRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmSampleReturn.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SampleByItmRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SampledCustomer.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SampleReturn.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SearchOrder.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SearchResult.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SelectCustomer.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.SendSMS.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ManageSilverSale.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmStockBalance.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.StockReportFrm.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.StockReportsPics.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.StockSearch.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.StoneDetail.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.StonesSummaryRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.testing.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.VeiwPictures.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ViewPicturesRpt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.ViewSalePictureRopt.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\WebCam_Capture.WebCamCapture.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.frmWorkerDealing.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.WorkerDealingBill.resources
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\jewl.csproj.GenerateResource.Cache
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\RdlCompile.cache
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\obj\Release\RdlCompile.compiled
+\\Shahid\g\Software installation\Retailer Software\Standard\jewl\bin\Release\Microsoft.SqlServer.Replication.dll
